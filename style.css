@@ -44,7 +44,7 @@ header div ul li a {
 
 header div ul li a:hover {
     color: rgb(102, 204, 245);
-    font-weight: bolder;
+    font-weight: bolder; 
     transition: 0.3s;
 }
 
@@ -167,7 +167,7 @@ header div ul li a:hover {
 
 body>main>section.section-two-divs>div:nth-child(1) {
     height: 1000%;
-    background-image: url('./imagen/ninacapa.jpg');
+    background-image: (.\interfacesiteamanda\ninacapa.jpg);
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
